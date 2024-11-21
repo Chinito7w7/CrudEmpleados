@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\EmpleadosCrud\EmpleadosCrud\obj\Debug\EmpleadosCrud.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\EmpleadosCrud\EmpleadosCrud\obj\Debug\EmpleadosCrud.FrmEmpleados.resources
+C:\Users\USER\source\repos\EmpleadosCrud\EmpleadosCrud\obj\Debug\EmpleadosCrud.Properties.Resources.resources
+C:\Users\USER\source\repos\EmpleadosCrud\EmpleadosCrud\obj\Debug\EmpleadosCrud.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\EmpleadosCrud\EmpleadosCrud\obj\Debug\EmpleadosCrud.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EmpleadosCrud\EmpleadosCrud\bin\Debug\EmpleadosCrud.exe.config
+C:\Users\USER\source\repos\EmpleadosCrud\EmpleadosCrud\bin\Debug\EmpleadosCrud.exe
+C:\Users\USER\source\repos\EmpleadosCrud\EmpleadosCrud\bin\Debug\EmpleadosCrud.pdb
+C:\Users\USER\source\repos\EmpleadosCrud\EmpleadosCrud\obj\Debug\EmpleadosCrud.exe
+C:\Users\USER\source\repos\EmpleadosCrud\EmpleadosCrud\obj\Debug\EmpleadosCrud.pdb
